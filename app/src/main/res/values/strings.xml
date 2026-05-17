@@ -3,4 +3,5 @@
     <string name="welcome_text">Bienvenido</string>
     <string name="enter_button">Entrar</string>
     <string name="click_here">Haz clic aquí</string>
+    <string name="texto_uniko_pull_request">Verificación de entrega exitosa</string>
 </resources>
